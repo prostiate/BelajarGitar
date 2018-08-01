@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Asiknya Belajar Gitar</string>
+    <string name="pilihkunci">PILIH KUNCI</string>
+    <string name="skuncia">KUNCI A</string>
+    <string name="skuncib">KUNCI B</string>
+    <string name="skuncic">KUNCI C</string>
+    <string name="skuncid">KUNCI D</string>
+    <string name="skuncie">KUNCI E</string>
+    <string name="skuncif">KUNCI F</string>
+    <string name="skuncig">KUNCI G</string>
+    <string-array name="kunci_array">
+        <item>C</item>
+        <item>C#</item>
+        <item>Db</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>Eb</item>
+        <item>E</item>
+        <item>F</item>
+        <item>Gb</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>Ab</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>Bb</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="majorminor">
+        <item>Major</item>
+        <item>Minor</item>
+    </string-array>
+</resources>
